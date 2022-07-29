@@ -1,0 +1,13 @@
+.item_list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 200px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+
+    h3, p {
+        margin-right: 10px;
+    }
+}
